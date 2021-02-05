@@ -16,3 +16,4 @@ function someFunction(pathToDir) {
 }
 
 someFunction("./someFolder");
+
