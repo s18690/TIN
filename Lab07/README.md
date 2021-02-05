@@ -15,4 +15,4 @@ http://localhost:6969/sub?num1=2&num2=5
 
 Example usage of task b:
 
-Delete/change/create new file in someFolder folder.
+Delete/change/create new file in someFolder.
