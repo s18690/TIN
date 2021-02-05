@@ -15,3 +15,4 @@ exports.fahrenheit = function() {
     document.getElementById("celsius").value = ((val - 32) * 5 / 9);
     document.getElementById("kelvin").value = ((val - 32) * 5 / 9 + 273.15);
 }
+
