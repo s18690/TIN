@@ -18,3 +18,4 @@ function Student(name, surname, id, grades) {
 
 const student = new Student("Jarosław", "Kaczyński", 1, [5, 5, 2, 2]);
 console.log(student.printAvgGrades());
+
