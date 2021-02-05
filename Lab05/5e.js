@@ -21,6 +21,7 @@ class Student {
         this.name = splitName[0] || "";
         this.surname = splitName[1] || "";
     }
+    
 
 
     get printStudent() {
